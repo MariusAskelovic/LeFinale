@@ -9,9 +9,9 @@ const Header = (props) => {
       </div >
 
       <nav className="nav">
-        <a href="https://www.linkedin.com/in/marius-ask-874109266/">LinkedIn</a>
-        <a href="https://github.com/cappeesh">GitHub</a>
-        <a href="mailto:marashz@gmail.com">E-Mail</a>
+        <a href="https://www.linkedin.com/in/marius-ask-874109266/" target="_blank">LinkedIn</a>
+        <a href="https://github.com/cappeesh" target="_blank">GitHub</a>
+        <a href="mailto:marashz@gmail.com" target="_blank">E-Mail</a>
       </nav>
     </div >
   )
